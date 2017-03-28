@@ -16,7 +16,8 @@ namespace WebWithSelenium
         [Test]
         public void SearchYandex()
         {
-            IWebDriver driver = new ChromeDriver();
+            //comment here
+			IWebDriver driver = new ChromeDriver();
             driver.Url = "http://google.com.ua";
             var searchBox = driver.FindElement(By.Id("lst-ib"));
             searchBox.SendKeys("yandex");
