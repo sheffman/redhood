@@ -27,7 +27,6 @@ namespace WebWithSelenium
             //validate
             if (driver.FindElement(By.CssSelector(".logo.logo_color_ru")) == null) Assert.Fail();
             driver.Quit();
-            //new comment line
         }
 
         [Test]
