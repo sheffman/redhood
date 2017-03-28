@@ -1,0 +1,11 @@
+c:\users\ashvets\documents\visual studio 2015\Projects\ClassLibrary1\WebWithSelenium\obj\Debug\WebWithSelenium.csprojResolveAssemblyReference.cache
+c:\users\ashvets\documents\visual studio 2015\Projects\ClassLibrary1\WebWithSelenium\bin\Debug\WebWithSelenium.dll
+c:\users\ashvets\documents\visual studio 2015\Projects\ClassLibrary1\WebWithSelenium\bin\Debug\WebWithSelenium.pdb
+c:\users\ashvets\documents\visual studio 2015\Projects\ClassLibrary1\WebWithSelenium\bin\Debug\nunit.framework.dll
+c:\users\ashvets\documents\visual studio 2015\Projects\ClassLibrary1\WebWithSelenium\bin\Debug\WebDriver.dll
+c:\users\ashvets\documents\visual studio 2015\Projects\ClassLibrary1\WebWithSelenium\bin\Debug\nunit.framework.xml
+c:\users\ashvets\documents\visual studio 2015\Projects\ClassLibrary1\WebWithSelenium\bin\Debug\WebDriver.xml
+c:\users\ashvets\documents\visual studio 2015\Projects\ClassLibrary1\WebWithSelenium\obj\Debug\WebWithSelenium.dll
+c:\users\ashvets\documents\visual studio 2015\Projects\ClassLibrary1\WebWithSelenium\obj\Debug\WebWithSelenium.pdb
+C:\Users\ashvets\Documents\Visual Studio 2015\Projects\ClassLibrary1\WebWithSelenium\bin\Debug\WebDriver.Support.dll
+C:\Users\ashvets\Documents\Visual Studio 2015\Projects\ClassLibrary1\WebWithSelenium\bin\Debug\WebDriver.Support.xml

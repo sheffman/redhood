@@ -1,0 +1,7 @@
+c:\users\ashvets\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+c:\users\ashvets\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+c:\users\ashvets\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\nunit.framework.dll
+c:\users\ashvets\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\nunit.framework.xml
+c:\users\ashvets\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\CalcTest.csprojResolveAssemblyReference.cache
+c:\users\ashvets\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+c:\users\ashvets\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
